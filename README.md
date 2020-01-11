@@ -104,7 +104,6 @@ Java Version 1.8, Angular, SQL, MySQL Workbench, Spring Boot, Spring Security, J
 | PUT       | `/api/vehicles/3`   | Representation of a new version of vehicle `3` | | **Replace** endpoint |
 | DELETE    | `/api/vehicles/3`   |              | | **Delete** route |
 
-### Lessons Learned
 
 ### How to Run
 

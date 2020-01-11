@@ -1,3 +1,15 @@
+#  [Caravan](http://3.132.5.31:8080/Caravan)
+
+![Project Screenshot](https://github.com/richardanewman/richardanewman.github.io/blob/master/images/caravan.png)
+
+## Mid-term Team Project for Skill Distillery (Denver, Colorado)
+
+This is a fork of our mid term project. The original repo can be found here: https://github.com/noel-castillo/FinalProject
+
+This fork will continue to be updated and improved beyond MVP.
+
+
+
 ## Caravan
 
 | HTTP Verb | URI                  | Request Body | Response Body | Purpose |

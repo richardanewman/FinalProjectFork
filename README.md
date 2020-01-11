@@ -2,13 +2,21 @@
 
 ![Project Screenshot](https://github.com/richardanewman/richardanewman.github.io/blob/master/images/caravan.png)
 
-## Final Team Project for Skill Distillery
-
 This is a fork of our mid term project. The original repo can be found here: https://github.com/noel-castillo/FinalProject
 
 This fork will continue to be updated and improved beyond MVP.
 
+### Week 16 Final Project for Skill Distillery
 
+### Overview
+
+Caravan is a road trip application which allows a logged in authenticated user to host or join long distance road trips.
+
+![Postman Screenshot](https://github.com/richardanewman/richardanewman.github.io/blob/master/images/postman.png)
+
+### Technologies
+
+Java Version 1.8, Angular, SQL, MySQL Workbench, Spring Boot, Spring Security, JPA, Hibernate, Gradle, AWS EC2, Git, Github, Postman, Spring Tool Suite, Visual Studio Code, and Atom
 
 ## Caravan
 
@@ -97,3 +105,51 @@ This fork will continue to be updated and improved beyond MVP.
 | POST      | `/api/vehicles`      | Representation of a new _vehicle_ | Description of the result of the operation | **Create** endpoint |
 | PUT       | `/api/vehicles/3`   | Representation of a new version of vehicle `3` | | **Replace** endpoint |
 | DELETE    | `/api/vehicles/3`   |              | | **Delete** route |
+
+### Lessons Learned
+
+### How to Run
+
+You can access the routes above using the following URL: http://3.132.5.31:8080/Caravan/
+
+Some routes are restricted and require a log in or administration privileges. Most features can be accessed after registering. If you would like admin approval, please contact me.
+
+Alternatively, you can compile this program to run on your own localhost or your own EC2 instance. Download or clone this repository to a local directory. Open Spring Tool Suite (or your favorite IDE) and import the Gradle project under the File menu. Alternatively, you can clone the repository directly into your IDE via terminal. Once you have compiled it, click run and follow the prompts.
+
+Clone with SSH:
+
+git@github.com:richardanewman/FinalProjectFork.git
+
+Clone with HTTPS:
+
+https://github.com/richardanewman/FinalProjectFork.git
+
+
+## Context
+
+Below you will find a copy of the assignment's tasks. I am providing this context for anyone evaluating my code. The project work was performed independently by group members. For better or worse, the code is our own. The only resources referenced were from the prior course material and class notes.
+
+### The Following Task Was Provided by Skill Distillery
+
+## Final Project
+
+## Overview
+
+We have reached the culmination of our Java learning. Now its time to put this knowledge into practice with an all encompassing full stack project. The guidelines for this project are minimal, only dictating schedule and basic technologies that must be used.
+
+Each individual will have a chance to pitch ideas they have for the project. After the pitches, students will have an opportunity to vote on the ideas they like the most. With this information the instructors will review all pitched options and assign groups.
+
+The project must utilize:
+* A SQL database  
+* Java REST backend  
+* A front end JS technology we learned over the course of the program
+  * Vanilla JS  
+  * Angular  
+
+The project must include:
+* Non-authenticated and authenticated views of data.
+* Login authentication to access C.R.U.D. functionality.
+* Full C.R.U.D. of user-generated data.
+* A separate privilege level that can perform C.R.U.D. on data a non-privileged user cannot.
+
+

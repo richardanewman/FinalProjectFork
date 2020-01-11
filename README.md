@@ -12,8 +12,6 @@ This fork will continue to be updated and improved beyond MVP.
 
 Caravan is a road trip application which allows a logged in authenticated user to host or join long distance road trips.
 
-![Postman Screenshot](https://github.com/richardanewman/richardanewman.github.io/blob/master/images/postman.png)
-
 ### Technologies
 
 Java Version 1.8, Angular, SQL, MySQL Workbench, Spring Boot, Spring Security, JPA, Hibernate, Gradle, AWS EC2, Git, Github, Postman, Spring Tool Suite, Visual Studio Code, and Atom

@@ -126,11 +126,9 @@ https://github.com/richardanewman/FinalProjectFork.git
 
 Below you will find a copy of the assignment's tasks. I am providing this context for anyone evaluating my code. The project work was performed independently by group members. For better or worse, the code is our own. The only resources referenced were from the prior course material and class notes.
 
-### The Following Task Was Provided by Skill Distillery
+### The Following Tasks Were Provided by Skill Distillery
 
-## Final Project
-
-## Overview
+## Final Project Overview
 
 We have reached the culmination of our Java learning. Now its time to put this knowledge into practice with an all encompassing full stack project. The guidelines for this project are minimal, only dictating schedule and basic technologies that must be used.
 

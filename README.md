@@ -2,7 +2,7 @@
 
 ![Project Screenshot](https://github.com/richardanewman/richardanewman.github.io/blob/master/images/caravan.png)
 
-## Mid-term Team Project for Skill Distillery (Denver, Colorado)
+## Final Team Project for Skill Distillery
 
 This is a fork of our mid term project. The original repo can be found here: https://github.com/noel-castillo/FinalProject
 
